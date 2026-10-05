@@ -1,48 +1,71 @@
-# Machine Learning Projects
+<div align="center">
 
-A collection of Python and Jupyter Notebook projects documenting my practice in classification, regression, and image processing.
+# Applied Machine Learning
+### Python projects · Classification · Regression · Image processing
 
-I am **Md. Shokoth Hossain**, an Industrial and Production Engineering graduate from BUET. I am building practical machine-learning skills with an interest in applying them to manufacturing and intelligent process monitoring.
+<img src="https://img.shields.io/badge/Python-Project_Practice-0F766E?style=for-the-badge" alt="Python project practice" />
+<img src="https://img.shields.io/badge/Jupyter-Notebooks-1E293B?style=for-the-badge" alt="Jupyter notebooks" />
+<img src="https://img.shields.io/badge/Focus-Learning_by_Building-B45309?style=for-the-badge" alt="Learning by building" />
 
-## Project index
+**11 project folders + an image-processing notebook**
 
-| Folder | Project | Focus |
+[About me](https://github.com/MdShokoth) · [LinkedIn](https://www.linkedin.com/in/md-shokoth-hossain-474b04197) · [Design portfolio](https://www.behance.net/mdshokothhoosain)
+
+</div>
+
+---
+
+## Overview
+
+This repository documents my practice in machine learning using Python scripts and Jupyter notebooks. The projects explore classification and regression across several datasets, alongside foundational image-processing work.
+
+I am **Md. Shokoth Hossain**, an Industrial and Production Engineering graduate from **BUET**. My longer-term interest is to apply computational skills to manufacturing, sensor-based monitoring, and engineering decision support.
+
+## Project directory
+
+| Project | Problem area | Files |
 | :--- | :--- | :--- |
-| [Project_1](./Project_1/) | Rock vs. Mine Prediction | Classification using sonar data |
-| [Project_2](./Project_2/) | Diabetes Prediction | Classification practice |
-| [Project_3](./Project_3/) | House Price Prediction | Regression practice |
-| [Project_4](./Project_4/) | Fake News Prediction | Text classification practice |
-| [Project_5](./Project_5/) | Loan Status Prediction | Classification practice |
-| [Project_6](./Project_6/) | Wine Quality Prediction | Tabular predictive modeling |
-| [Project_7](./Project_7/) | Car Price Prediction | Regression practice |
-| [Project_8](./Project_8/) | Gold Price Prediction | Regression practice |
-| [Project_9](./Project_9/) | Heart Disease Prediction | Classification practice |
-| [Project_10](./Project_10/) | Credit Card Fraud Detection | Fraud classification practice |
-| [Project_11](./Project_11/) | Medical Insurance Cost Prediction | Regression practice |
+| Rock vs. Mine Prediction | Sonar-data classification | [Project_1](https://github.com/MdShokoth/Machine_Learning_Project/tree/main/Project_1) |
+| Diabetes Prediction | Health-data classification practice | [Project_2](https://github.com/MdShokoth/Machine_Learning_Project/tree/main/Project_2) |
+| House Price Prediction | Regression | [Project_3](https://github.com/MdShokoth/Machine_Learning_Project/tree/main/Project_3) |
+| Fake News Prediction | Text classification | [Project_4](https://github.com/MdShokoth/Machine_Learning_Project/tree/main/Project_4) |
+| Loan Status Prediction | Classification | [Project_5](https://github.com/MdShokoth/Machine_Learning_Project/tree/main/Project_5) |
+| Wine Quality Prediction | Tabular predictive modeling | [Project_6](https://github.com/MdShokoth/Machine_Learning_Project/tree/main/Project_6) |
+| Car Price Prediction | Regression | [Project_7](https://github.com/MdShokoth/Machine_Learning_Project/tree/main/Project_7) |
+| Gold Price Prediction | Regression | [Project_8](https://github.com/MdShokoth/Machine_Learning_Project/tree/main/Project_8) |
+| Heart Disease Prediction | Health-data classification practice | [Project_9](https://github.com/MdShokoth/Machine_Learning_Project/tree/main/Project_9) |
+| Credit Card Fraud Detection | Fraud classification | [Project_10](https://github.com/MdShokoth/Machine_Learning_Project/tree/main/Project_10) |
+| Medical Insurance Cost Prediction | Regression | [Project_11](https://github.com/MdShokoth/Machine_Learning_Project/tree/main/Project_11) |
+| Image Processing | Image-processing foundations | [Notebook](https://github.com/MdShokoth/Machine_Learning_Project/blob/main/Image_Processing.ipynb) |
 
-## Image processing
+## Explore the work
 
-[Image_Processing.ipynb](./Image_Processing.ipynb) contains my image-processing learning work.
+1. Choose a project from the directory above.
+2. Open its notebook to review the workflow, or inspect its Python script.
+3. Check dataset availability, file paths, and imported packages before running locally.
 
-## Exploring the projects
+Several folders include CSV datasets. Dependencies and paths vary between projects; a single installation command has not yet been verified for the collection.
 
-Open a project folder and review its notebook or Python script. Several folders include CSV datasets; availability and dependencies differ between projects. Check file paths before running locally.
+## What I am practicing
 
-## Learning focus
-
-- Preparing and exploring data
-- Practicing classification and regression workflows
+- Data preparation and exploration
+- Classification and regression workflows
 - Understanding model evaluation
-- Building foundations in image processing and computer vision
+- Explaining results and limitations
+- Foundational image processing
+
+## Documentation roadmap
+
+- [x] Add a linked directory of all existing projects
+- [x] Explain the scope and purpose of the collection
+- [ ] Add dataset sources and attribution for each project
+- [ ] Document dependencies and verified run instructions
+- [ ] Add concise evaluation summaries and failure examples
 
 ## Scope
 
-These are educational projects. Predictions involving health, finance, or lending are learning exercises and have not been validated for real-world decisions.
+These are educational projects. Results should be interpreted in the context of their datasets and evaluation methods. Health, finance, and lending examples are learning exercises rather than validated decision tools.
 
-## Documentation development
+---
 
-I am working toward adding dataset references, dependencies, reproducible run instructions, and evaluation summaries for each project.
-
-## Author
-
-[Md. Shokoth Hossain](https://github.com/MdShokoth)
+<p align="center"><b>Md. Shokoth Hossain</b><br />Engineering knowledge · Practical programming · Continued learning</p>
